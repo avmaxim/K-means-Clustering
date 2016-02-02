@@ -1,0 +1,1 @@
+C:\C#\K-means Clustering Algorithm\K-means Clustering Algorithm\bin\Debug\K-means Clustering Algorithm.exe.config
