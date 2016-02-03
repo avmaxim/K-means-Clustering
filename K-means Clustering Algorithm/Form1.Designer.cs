@@ -39,7 +39,7 @@
             // 
             // RandomizeBtn
             // 
-            this.RandomizeBtn.Location = new System.Drawing.Point(775, 255);
+            this.RandomizeBtn.Location = new System.Drawing.Point(969, 260);
             this.RandomizeBtn.Name = "RandomizeBtn";
             this.RandomizeBtn.Size = new System.Drawing.Size(75, 35);
             this.RandomizeBtn.TabIndex = 0;
@@ -49,14 +49,14 @@
             // 
             // clusters_TextBox
             // 
-            this.clusters_TextBox.Location = new System.Drawing.Point(874, 190);
+            this.clusters_TextBox.Location = new System.Drawing.Point(1068, 195);
             this.clusters_TextBox.Name = "clusters_TextBox";
             this.clusters_TextBox.Size = new System.Drawing.Size(100, 20);
             this.clusters_TextBox.TabIndex = 1;
             // 
             // points_TextBox
             // 
-            this.points_TextBox.Location = new System.Drawing.Point(874, 216);
+            this.points_TextBox.Location = new System.Drawing.Point(1068, 221);
             this.points_TextBox.Name = "points_TextBox";
             this.points_TextBox.Size = new System.Drawing.Size(100, 20);
             this.points_TextBox.TabIndex = 2;
@@ -64,7 +64,7 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(772, 193);
+            this.label1.Location = new System.Drawing.Point(966, 198);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(96, 13);
             this.label1.TabIndex = 3;
@@ -73,7 +73,7 @@
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(772, 219);
+            this.label2.Location = new System.Drawing.Point(966, 224);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(88, 13);
             this.label2.TabIndex = 4;
@@ -81,7 +81,7 @@
             // 
             // StartKMeansBtn
             // 
-            this.StartKMeansBtn.Location = new System.Drawing.Point(865, 255);
+            this.StartKMeansBtn.Location = new System.Drawing.Point(1059, 260);
             this.StartKMeansBtn.Name = "StartKMeansBtn";
             this.StartKMeansBtn.Size = new System.Drawing.Size(109, 35);
             this.StartKMeansBtn.TabIndex = 5;
@@ -90,17 +90,18 @@
             // 
             // panel1
             // 
+            this.panel1.BackColor = System.Drawing.Color.White;
             this.panel1.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.panel1.Location = new System.Drawing.Point(13, 13);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(753, 523);
+            this.panel1.Size = new System.Drawing.Size(947, 618);
             this.panel1.TabIndex = 6;
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(986, 548);
+            this.ClientSize = new System.Drawing.Size(1180, 643);
             this.Controls.Add(this.panel1);
             this.Controls.Add(this.StartKMeansBtn);
             this.Controls.Add(this.label2);

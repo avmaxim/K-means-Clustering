@@ -13,11 +13,20 @@ namespace K_means_Clustering_Algorithm
     public partial class Form1 : Form
     {
         private K_Means kMeans;
+        private Bitmap bmp;
 
         public Form1()
         {
-            kMeans = new K_Means();
             InitializeComponent();
+            kMeans = new K_Means();
+           // InitBitmap();
+        }
+
+        private void InitBitmap()
+        {
+            bmp = new Bitmap(panel1.Width, panel1.Height);
+            panel1.BackgroundImage = (Image)bmp;
+            panel1.BackgroundImageLayout = ImageLayout.None;
         }
 
         private void RandomizeBtn_Click(object sender, EventArgs e)
@@ -40,7 +49,7 @@ namespace K_means_Clustering_Algorithm
 
             kMeans = new K_Means(pointsCount, clustersCount);
             kMeans.Randomize();
-           // Painter.Draw(kMeans);
+            Painter.Draw(kMeans, panel1);
         }
 
       

@@ -8,6 +8,6 @@ namespace K_means_Clustering_Algorithm
 {
     public interface IDrawable
     {
-        void Draw();
+        void Draw(Object o);
     }
 }

@@ -9,9 +9,9 @@ namespace K_means_Clustering_Algorithm
     public sealed class Painter
     {
 
-        public static void Draw(IDrawable obj)
+        public static void Draw(IDrawable obj, Object surface)
         {
-            obj.Draw();
+            obj.Draw(surface);
         }
     }
 }
