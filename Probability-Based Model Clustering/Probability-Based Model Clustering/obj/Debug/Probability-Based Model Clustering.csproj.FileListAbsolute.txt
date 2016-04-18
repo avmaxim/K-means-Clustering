@@ -1,0 +1,17 @@
+C:\C#\K-means Clustering Algorithm\Probability-Based Model Clustering\Probability-Based Model Clustering\bin\Debug\Probability-Based Model Clustering.exe.config
+C:\C#\K-means Clustering Algorithm\Probability-Based Model Clustering\Probability-Based Model Clustering\obj\Debug\Probability-Based Model Clustering.csprojResolveAssemblyReference.cache
+C:\C#\K-means Clustering Algorithm\Probability-Based Model Clustering\Probability-Based Model Clustering\obj\Debug\Probability_Based_Model_Clustering.Form1.resources
+C:\C#\K-means Clustering Algorithm\Probability-Based Model Clustering\Probability-Based Model Clustering\obj\Debug\Probability_Based_Model_Clustering.Properties.Resources.resources
+C:\C#\K-means Clustering Algorithm\Probability-Based Model Clustering\Probability-Based Model Clustering\obj\Debug\Probability-Based Model Clustering.csproj.GenerateResource.Cache
+C:\C#\K-means Clustering Algorithm\Probability-Based Model Clustering\Probability-Based Model Clustering\bin\Debug\Probability-Based Model Clustering.exe
+C:\C#\K-means Clustering Algorithm\Probability-Based Model Clustering\Probability-Based Model Clustering\bin\Debug\Probability-Based Model Clustering.pdb
+C:\C#\K-means Clustering Algorithm\Probability-Based Model Clustering\Probability-Based Model Clustering\obj\Debug\Probability-Based Model Clustering.exe
+C:\C#\K-means Clustering Algorithm\Probability-Based Model Clustering\Probability-Based Model Clustering\obj\Debug\Probability-Based Model Clustering.pdb
+C:\C#\K-means Clustering Algorithm\K-means-Clustering\Probability-Based Model Clustering\Probability-Based Model Clustering\bin\Debug\Probability-Based Model Clustering.exe.config
+C:\C#\K-means Clustering Algorithm\K-means-Clustering\Probability-Based Model Clustering\Probability-Based Model Clustering\bin\Debug\Probability-Based Model Clustering.exe
+C:\C#\K-means Clustering Algorithm\K-means-Clustering\Probability-Based Model Clustering\Probability-Based Model Clustering\bin\Debug\Probability-Based Model Clustering.pdb
+C:\C#\K-means Clustering Algorithm\K-means-Clustering\Probability-Based Model Clustering\Probability-Based Model Clustering\obj\Debug\Probability_Based_Model_Clustering.Form1.resources
+C:\C#\K-means Clustering Algorithm\K-means-Clustering\Probability-Based Model Clustering\Probability-Based Model Clustering\obj\Debug\Probability_Based_Model_Clustering.Properties.Resources.resources
+C:\C#\K-means Clustering Algorithm\K-means-Clustering\Probability-Based Model Clustering\Probability-Based Model Clustering\obj\Debug\Probability-Based Model Clustering.csproj.GenerateResource.Cache
+C:\C#\K-means Clustering Algorithm\K-means-Clustering\Probability-Based Model Clustering\Probability-Based Model Clustering\obj\Debug\Probability-Based Model Clustering.exe
+C:\C#\K-means Clustering Algorithm\K-means-Clustering\Probability-Based Model Clustering\Probability-Based Model Clustering\obj\Debug\Probability-Based Model Clustering.pdb
