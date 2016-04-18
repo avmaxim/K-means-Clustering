@@ -1,0 +1,17 @@
+C:\C#\K-means Clustering Algorithm\Max-Min Clustering Algorithm\bin\Debug\Max-Min Clustering Algorithm.exe.config
+C:\C#\K-means Clustering Algorithm\Max-Min Clustering Algorithm\bin\Debug\Max-Min Clustering Algorithm.exe
+C:\C#\K-means Clustering Algorithm\Max-Min Clustering Algorithm\bin\Debug\Max-Min Clustering Algorithm.pdb
+C:\C#\K-means Clustering Algorithm\Max-Min Clustering Algorithm\obj\Debug\Max_Min_Clustering_Algorithm.Form1.resources
+C:\C#\K-means Clustering Algorithm\Max-Min Clustering Algorithm\obj\Debug\Max_Min_Clustering_Algorithm.Properties.Resources.resources
+C:\C#\K-means Clustering Algorithm\Max-Min Clustering Algorithm\obj\Debug\Max-Min Clustering Algorithm.csproj.GenerateResource.Cache
+C:\C#\K-means Clustering Algorithm\Max-Min Clustering Algorithm\obj\Debug\Max-Min Clustering Algorithm.exe
+C:\C#\K-means Clustering Algorithm\Max-Min Clustering Algorithm\obj\Debug\Max-Min Clustering Algorithm.pdb
+C:\C#\K-means Clustering Algorithm\Max-Min Clustering Algorithm\obj\Debug\Max-Min Clustering Algorithm.csprojResolveAssemblyReference.cache
+C:\C#\K-means Clustering Algorithm\K-means-Clustering\Max-Min Clustering Algorithm\bin\Debug\Max-Min Clustering Algorithm.exe.config
+C:\C#\K-means Clustering Algorithm\K-means-Clustering\Max-Min Clustering Algorithm\bin\Debug\Max-Min Clustering Algorithm.exe
+C:\C#\K-means Clustering Algorithm\K-means-Clustering\Max-Min Clustering Algorithm\bin\Debug\Max-Min Clustering Algorithm.pdb
+C:\C#\K-means Clustering Algorithm\K-means-Clustering\Max-Min Clustering Algorithm\obj\Debug\Max_Min_Clustering_Algorithm.Form1.resources
+C:\C#\K-means Clustering Algorithm\K-means-Clustering\Max-Min Clustering Algorithm\obj\Debug\Max_Min_Clustering_Algorithm.Properties.Resources.resources
+C:\C#\K-means Clustering Algorithm\K-means-Clustering\Max-Min Clustering Algorithm\obj\Debug\Max-Min Clustering Algorithm.csproj.GenerateResource.Cache
+C:\C#\K-means Clustering Algorithm\K-means-Clustering\Max-Min Clustering Algorithm\obj\Debug\Max-Min Clustering Algorithm.exe
+C:\C#\K-means Clustering Algorithm\K-means-Clustering\Max-Min Clustering Algorithm\obj\Debug\Max-Min Clustering Algorithm.pdb

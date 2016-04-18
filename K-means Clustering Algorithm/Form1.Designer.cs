@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.components = new System.ComponentModel.Container();
             this.RandomizeBtn = new System.Windows.Forms.Button();
             this.clusters_TextBox = new System.Windows.Forms.TextBox();
             this.points_TextBox = new System.Windows.Forms.TextBox();
@@ -35,6 +36,10 @@
             this.label2 = new System.Windows.Forms.Label();
             this.StartKMeansBtn = new System.Windows.Forms.Button();
             this.panel1 = new System.Windows.Forms.Panel();
+            this.visualIterionsCheckbox = new System.Windows.Forms.CheckBox();
+            this.label3 = new System.Windows.Forms.Label();
+            this.elapsedTimeLabel = new System.Windows.Forms.Label();
+            this.timer1 = new System.Windows.Forms.Timer(this.components);
             this.SuspendLayout();
             // 
             // RandomizeBtn
@@ -87,6 +92,7 @@
             this.StartKMeansBtn.TabIndex = 5;
             this.StartKMeansBtn.Text = "Start K-means";
             this.StartKMeansBtn.UseVisualStyleBackColor = true;
+            this.StartKMeansBtn.Click += new System.EventHandler(this.StartKMeansBtn_Click);
             // 
             // panel1
             // 
@@ -97,11 +103,47 @@
             this.panel1.Size = new System.Drawing.Size(947, 618);
             this.panel1.TabIndex = 6;
             // 
+            // visualIterionsCheckbox
+            // 
+            this.visualIterionsCheckbox.AutoSize = true;
+            this.visualIterionsCheckbox.Location = new System.Drawing.Point(969, 328);
+            this.visualIterionsCheckbox.Name = "visualIterionsCheckbox";
+            this.visualIterionsCheckbox.Size = new System.Drawing.Size(162, 17);
+            this.visualIterionsCheckbox.TabIndex = 7;
+            this.visualIterionsCheckbox.Text = "Watch each iteration visually";
+            this.visualIterionsCheckbox.UseVisualStyleBackColor = true;
+            // 
+            // label3
+            // 
+            this.label3.AutoSize = true;
+            this.label3.Location = new System.Drawing.Point(966, 163);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(95, 13);
+            this.label3.TabIndex = 8;
+            this.label3.Text = "Elapsed time (ms): ";
+            // 
+            // elapsedTimeLabel
+            // 
+            this.elapsedTimeLabel.AutoSize = true;
+            this.elapsedTimeLabel.Location = new System.Drawing.Point(1056, 163);
+            this.elapsedTimeLabel.Name = "elapsedTimeLabel";
+            this.elapsedTimeLabel.Size = new System.Drawing.Size(13, 13);
+            this.elapsedTimeLabel.TabIndex = 9;
+            this.elapsedTimeLabel.Text = "0";
+            // 
+            // timer1
+            // 
+            this.timer1.Interval = 1;
+            this.timer1.Tick += new System.EventHandler(this.timer1_Tick);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1180, 643);
+            this.Controls.Add(this.elapsedTimeLabel);
+            this.Controls.Add(this.label3);
+            this.Controls.Add(this.visualIterionsCheckbox);
             this.Controls.Add(this.panel1);
             this.Controls.Add(this.StartKMeansBtn);
             this.Controls.Add(this.label2);
@@ -111,6 +153,7 @@
             this.Controls.Add(this.RandomizeBtn);
             this.Name = "Form1";
             this.Text = "Form1";
+            this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -125,6 +168,10 @@
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Button StartKMeansBtn;
         private System.Windows.Forms.Panel panel1;
+        private System.Windows.Forms.CheckBox visualIterionsCheckbox;
+        private System.Windows.Forms.Label label3;
+        private System.Windows.Forms.Label elapsedTimeLabel;
+        private System.Windows.Forms.Timer timer1;
     }
 }
 

@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{F6A33450-224B-453E-942F-2D728594AD9F}</ProjectGuid>
+    <ProjectGuid>{A1F6B7C7-9B83-4AE7-A741-F1AE0CE772CB}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>K_means_Clustering_Algorithm</RootNamespace>
-    <AssemblyName>K-means Clustering Algorithm</AssemblyName>
+    <RootNamespace>Max_Min_Clustering_Algorithm</RootNamespace>
+    <AssemblyName>Max-Min Clustering Algorithm</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -21,7 +21,6 @@
     <DefineConstants>DEBUG;TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
-    <UseVSHostingProcess>false</UseVSHostingProcess>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
@@ -45,6 +44,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Cluster.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -52,9 +52,9 @@
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
     <Compile Include="IDrawable.cs" />
-    <Compile Include="K_Math.cs" />
-    <Compile Include="K_Means.cs" />
-    <Compile Include="K_Painter.cs" />
+    <Compile Include="Max_Mins.cs" />
+    <Compile Include="MM_Math.cs" />
+    <Compile Include="MM_Painter.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form1.resx">

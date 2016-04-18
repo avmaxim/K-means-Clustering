@@ -1,0 +1,112 @@
+********************************************************
+Number of Clusters: 3
+Number of Points:   100
+Result: => *** Total number of iterations: 3********************************************************
+********************************************************
+Number of Clusters: 3
+Number of Points:   10
+Result: => *** Total number of iterations: 3********************************************************
+********************************************************
+Number of Clusters: 10
+Number of Points:   100
+Result: => *** Total number of iterations: 6********************************************************
+********************************************************
+Number of Clusters: 5
+Number of Points:   500
+Result: => *** Total number of iterations: 26********************************************************
+********************************************************
+Number of Clusters: 5
+Number of Points:   500
+Result: => *** Total number of iterations: 9********************************************************
+********************************************************
+Number of Clusters: 5
+Number of Points:   500
+Result: => *** Total number of iterations: 13********************************************************
+********************************************************
+Number of Clusters: 5
+Number of Points:   1000
+Result: => *** Total number of iterations: 9********************************************************
+********************************************************
+Number of Clusters: 10
+Number of Points:   1000
+Result: => *** Total number of iterations: 17********************************************************
+********************************************************
+Number of Clusters: 10
+Number of Points:   1000
+Result: => *** Total number of iterations: 1********************************************************
+********************************************************
+Number of Clusters: 10
+Number of Points:   1000
+Result: => *** Total number of iterations: 23********************************************************
+********************************************************
+Number of Clusters: 10
+Number of Points:   500
+Result: => *** Total number of iterations: 12********************************************************
+********************************************************
+Number of Clusters: 10
+Number of Points:   500
+Result: => *** Total number of iterations: 38********************************************************
+********************************************************
+Number of Clusters: 10
+Number of Points:   500
+Result: => *** Total number of iterations: 13********************************************************
+********************************************************
+Number of Clusters: 10
+Number of Points:   500
+Result: => *** Total number of iterations: 14********************************************************
+********************************************************
+Number of Clusters: 20
+Number of Points:   1000
+Result: => *** Total number of iterations: 15********************************************************
+********************************************************
+Number of Clusters: 5
+Number of Points:   5000
+Result: => *** Total number of iterations: 25********************************************************
+********************************************************
+Number of Clusters: 5
+Number of Points:   5000
+Result: => *** Total number of iterations: 8********************************************************
+********************************************************
+Number of Clusters: 10
+Number of Points:   5000
+Result: => *** Total number of iterations: 15********************************************************
+********************************************************
+Number of Clusters: 20
+Number of Points:   5000
+Result: => *** Total number of iterations: 48********************************************************
+********************************************************
+Number of Clusters: 20
+Number of Points:   5000
+Result: => *** Total number of iterations: 22********************************************************
+********************************************************
+Number of Clusters: 20
+Number of Points:   10000
+Result: => *** Total number of iterations: 51********************************************************
+********************************************************
+Number of Clusters: 20
+Number of Points:   10000
+Result: => *** Total number of iterations: 33********************************************************
+********************************************************
+Number of Clusters: 5
+Number of Points:   50000
+Result: => *** Total number of iterations: 14********************************************************
+********************************************************
+Number of Clusters: 10
+Number of Points:   50000
+Result: => *** Total number of iterations: 26********************************************************
+********************************************************
+Number of Clusters: 20
+Number of Points:   50000
+Result: => *** Total number of iterations: 31********************************************************
+********************************************************
+Number of Clusters: 10
+Number of Points:   100000
+Result: => *** Total number of iterations: 23********************************************************
+********************************************************
+Number of Clusters: 10
+Number of Points:   100000
+Result: => *** Total number of iterations: 24********************************************************
+********************************************************
+Number of Clusters: 20
+Number of Points:   100000
+Result: => *** Total number of iterations: 38********************************************************

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace K_means_Clustering_Algorithm
 {
-    public sealed class Painter
+    public sealed class K_Painter
     {
 
         public static void Draw(IDrawable obj, Object surface)

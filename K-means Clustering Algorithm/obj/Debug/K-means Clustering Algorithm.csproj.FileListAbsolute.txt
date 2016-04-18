@@ -1,6 +1,5 @@
 C:\C#\K-means Clustering Algorithm\K-means Clustering Algorithm\bin\Debug\K-means Clustering Algorithm.exe.config
 C:\C#\K-means Clustering Algorithm\K-means-Clustering\K-means Clustering Algorithm\bin\Debug\K-means Clustering Algorithm.exe.config
-C:\C#\K-means Clustering Algorithm\K-means-Clustering\K-means Clustering Algorithm\obj\Debug\K-means Clustering Algorithm.csprojResolveAssemblyReference.cache
 C:\C#\K-means Clustering Algorithm\K-means-Clustering\K-means Clustering Algorithm\obj\Debug\K_means_Clustering_Algorithm.Form1.resources
 C:\C#\K-means Clustering Algorithm\K-means-Clustering\K-means Clustering Algorithm\obj\Debug\K_means_Clustering_Algorithm.Properties.Resources.resources
 C:\C#\K-means Clustering Algorithm\K-means-Clustering\K-means Clustering Algorithm\obj\Debug\K-means Clustering Algorithm.csproj.GenerateResource.Cache
